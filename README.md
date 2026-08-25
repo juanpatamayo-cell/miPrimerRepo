@@ -6,4 +6,4 @@ Mi primera contribución local para Github
 
 Un commit más desde Github, repaso
 
-Una actualización más 
+Una actualización más, repaso
