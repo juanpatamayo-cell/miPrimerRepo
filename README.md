@@ -7,3 +7,5 @@ Mi primera contribución local para Github
 Un commit más desde Github, repaso
 
 Una actualización más, repaso
+
+Cambios desde mi rama local llamada Designer01
